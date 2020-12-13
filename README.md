@@ -1,2 +1,2 @@
-# vertixtech.org
-The official Vertix Technologies website. Open sourced to everyone
+# vertixstudios.com
+The official Vertix Studios website. Open sourced to everyone
